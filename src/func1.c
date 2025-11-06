@@ -4,10 +4,10 @@ void foo(void){
     printf("Hello foo\n");
 }
 
-void foo(void){
+void foofoo(void){
     printf("Hello foofoo\n");
 }
 
-void foo(void){
+void foofoofoo(void){
     printf("Hello foofoofoo\n");
 }
